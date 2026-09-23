@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Ejecutables y builds
+build/
+dist/
+*.spec
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
