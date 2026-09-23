@@ -43,7 +43,7 @@ La interfaz no contiene fórmulas: solo pide datos, los valida y llama al módul
 ## Instalación y uso
 
 ```bash
-git clone https://github.com/TU_USUARIO/SLV.git
+git clone https://github.com/lucimsc/SLV.git
 cd SLV
 pip install -r requirements.txt
 python slv.py
